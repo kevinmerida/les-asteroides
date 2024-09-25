@@ -8,7 +8,7 @@ https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/
 
 Les trajectoires de ces asteroïdes en provenance de ce site peuvent par ailleurs être téléchargées directement grâce au programme "asteroide.py" mis en ligne.
 
-Le "notebook" : 
+Le "notebook" : [ici](asteroide.ipynb)
 
 https://colab.research.google.com/drive/1Kwq2-n5QaVLl22wAtitFYTXCSTQIA8UR?usp=drive_link
 
