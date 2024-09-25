@@ -10,11 +10,7 @@ Les trajectoires de ces asteroïdes en provenance de ce site peuvent par ailleur
 
 Le "notebook" : [ici](asteroide.ipynb)
 
-https://colab.research.google.com/drive/1Kwq2-n5QaVLl22wAtitFYTXCSTQIA8UR?usp=drive_link
-
-Le programme "asteroide.py" : 
-
-https://drive.google.com/file/d/1YZs5mBo5oHaP8iqtPdPY8p3Qz8-vfJWc/view?usp=drive_link
+Le programme "asteroide.py" : [ici](asteroide.py)
 
 C'est l'occasion de revenir sur quelques astéroides qui ont fait l'actualité, notamment "2024 PT5", qualifié de "deuxième Lune temporairede la Terre", du fait de sa trajectoire assez particulière. Il s'agit en fait d'un asteroïde de la taille d'un gros bus, un beau caillou tout de même mais qui ne méritait pas le qualificatif de "Lune".
 
