@@ -1,5 +1,9 @@
 # Les astéroïdes
 
+## La vidéo
+
+https://www.youtube.com/watch?v=pAAN7sZw3_E
+
 ## Présentation
 
 Sur le site du Jet Propulsion Laboratory, il est possible de récupérer des informations sur de nombreux asteroïdes, via l'application accessible en ligne ci-dessous.
@@ -24,7 +28,7 @@ Vidéo "Les points de Lagrange" : https://www.youtube.com/watch?v=KUQBsQVXbxE
 
 On retrouvera aussi ces trajectoires avec des simulations numériques fondées sur la mécanique céleste.
 
-## Description
+## Les programmes
 
 ### Introduction
 
