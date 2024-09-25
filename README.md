@@ -1,6 +1,6 @@
 # Les astéroïdes
 
-## Introduction
+## Présentation
 
 Sur le site du Jet Propulsion Laboratory, il est possible de récupérer des informations sur de nombreux asteroïdes, via l'application accessible en ligne ci-dessous.
 
