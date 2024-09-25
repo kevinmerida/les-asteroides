@@ -22,7 +22,7 @@ Plus anciennement, il y avait "Apophis" qui nous frôlera le 13 avril 2029.
 
 Vidéo "Apophis" : https://www.youtube.com/watch?v=l3eGlIXXz8Y
 
-Et enfn, "Cruithne" qui suit une orbite "presque synchrone" avec la Terre, dite "en fer à cheval". C'est une situation particulière, associée aux points de Lagrange du système Soleil-Terre.
+Et enfn, on s'intéressera à "Cruithne" qui suit une orbite "presque synchrone" avec la Terre, dite "en fer à cheval". C'est une situation particulière, associée aux points de Lagrange du système Soleil-Terre.
 
 Vidéo "Les points de Lagrange" : https://www.youtube.com/watch?v=KUQBsQVXbxE
 
