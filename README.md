@@ -83,8 +83,15 @@ La comparaison entre la trajectoire donnée par les éphémérides et la traject
 ```python
 compare(Astre1_a='Terre',Astre2_a='2024PT5',Astre1_b='Terre',Astre2_b='2024PT5_simu')
 ```
+## Qulelques figures
 
----
+### 2024 PT5
+
+![](2024PT5_dist.png)
+
+### Apophis
+
+### Cruithne
 
 
 
