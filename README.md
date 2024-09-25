@@ -89,10 +89,16 @@ compare(Astre1_a='Terre',Astre2_a='2024PT5',Astre1_b='Terre',Astre2_b='2024PT5_s
 
 ![](2024PT5_dist.png)
 
+![](2024PT5_traj.png)
+
 ### Apophis
+
+![](Apophis_dist.png)
+
+![](Apophis_traj.png)
 
 ### Cruithne
 
+![](Cruithne_dist.png)
 
-
-
+![](Cruithne_traj.png)
