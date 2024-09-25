@@ -12,7 +12,7 @@ Le "notebook" : [ici](asteroide.ipynb)
 
 Le programme "asteroide.py" : [ici](asteroide.py)
 
-C'est l'occasion de revenir sur quelques astéroides qui ont fait l'actualité, notamment "2024 PT5", qualifié de "deuxième Lune temporairede la Terre", du fait de sa trajectoire assez particulière. Il s'agit en fait d'un asteroïde de la taille d'un gros bus, un beau caillou tout de même mais qui ne méritait pas le qualificatif de "Lune".
+C'est l'occasion de revenir sur quelques astéroides qui ont fait l'actualité, notamment "2024 PT5", qualifié de "deuxième Lune temporaire de la Terre", du fait de sa trajectoire assez particulière. Il s'agit en fait d'un asteroïde de la taille d'un gros bus, un beau caillou tout de même mais qui ne méritait pas le qualificatif de "Lune".
 
 Plus anciennement, il y avait "Apophis" qui nous frôlera le 13 avril 2029.
 
