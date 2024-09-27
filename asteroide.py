@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 asteroide
-@author: KM (23/09/2024)
+@author: KM (27/09/2024)
 """
 # importation des packages
 import numpy as np
@@ -217,11 +217,16 @@ def trace3D_err(Astre1, Astre2, XYZ_err, elev=30, azim=-60, roll=0):
     fig = plt.figure(figsize=(12, 8))
     ax = plt.axes(projection='3d')
     ax.plot3D(XYZ_err[:, 0], XYZ_err[:, 1], XYZ_err[:, 2], 'b', lw=0.5)
+    ax.scatter(XYZ_err[0, 0], XYZ_err[0, 1],
+               XYZ_err[0, 2], c='b', label='début')
+    ax.scatter(XYZ_err[-1, 0], XYZ_err[-1, 1],
+               XYZ_err[-1, 2], c='g', label='fin')
     ax.set_title('Erreur sur la trajectoire '+Astre2+' (origine '+Astre1+')')
     ax.set_xlabel('X (en km)'), ax.set_ylabel(
         'Y (en km)'), ax.set_zlabel('Z (en km)')
-    ax.view_init(elev, azim, roll)
     ax.axis('equal')
+    ax.view_init(elev, azim, roll)
+    ax.legend()
 
 # tracé en 2D de l'erreur sur la distance (JPL vs. simulation)
 
