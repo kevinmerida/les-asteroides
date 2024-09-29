@@ -6,17 +6,17 @@ https://www.youtube.com/watch?v=pAAN7sZw3_E
 
 ## Présentation
 
-Sur le site du Jet Propulsion Laboratory, il est possible de récupérer des informations sur de nombreux asteroïdes, via l'application accessible en ligne ci-dessous.
+Sur le site du Jet Propulsion Laboratory, il est possible de récupérer des informations sur de nombreux astéroïdes, via l'application accessible en ligne ci-dessous.
 
 https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/
 
-Les trajectoires de ces asteroïdes en provenance de ce site peuvent par ailleurs être téléchargées directement grâce au programme "asteroide.py" mis en ligne.
+Les trajectoires de ces astéroïdes en provenance de ce site peuvent par ailleurs être téléchargées directement grâce au programme "asteroide.py" mis en ligne.
 
 Le "notebook" : [ici](asteroide.ipynb)
 
 Le programme "asteroide.py" : [ici](asteroide.py)
 
-C'est l'occasion de revenir sur quelques astéroides qui ont fait l'actualité, notamment "2024 PT5", qualifié de "deuxième Lune temporaire de la Terre", du fait de sa trajectoire assez particulière. Il s'agit en fait d'un asteroïde de la taille d'un gros bus, un beau caillou tout de même mais qui ne méritait pas le qualificatif de "Lune".
+C'est l'occasion de revenir sur quelques astéroïdes qui ont fait l'actualité, notamment "2024 PT5", qualifié de "deuxième Lune temporaire de la Terre", du fait de sa trajectoire assez particulière. Il s'agit en fait d'un astéroïde de la taille d'un gros bus, un beau caillou tout de même mais qui ne méritait pas le qualificatif de "Lune".
 
 Plus anciennement, il y avait "Apophis" qui nous frôlera le 13 avril 2029.
 
