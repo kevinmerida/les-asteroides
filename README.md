@@ -1,8 +1,6 @@
 # Les astéroïdes
 
-## La vidéo
-
-https://www.youtube.com/watch?v=pAAN7sZw3_E
+La vidéo : https://www.youtube.com/watch?v=pAAN7sZw3_E
 
 ## Présentation
 
